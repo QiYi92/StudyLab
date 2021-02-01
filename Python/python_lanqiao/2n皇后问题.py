@@ -6,7 +6,7 @@ for i in range(themax):
 ListW = [0] * 8  # 白皇后放置位置
 ListB = [0] * 8  # 黑皇后放置位置
 nums = 0  # 记录总数
-
+ 
 
 # 检查白皇后是否可以放入
 def checkW(row, columu):

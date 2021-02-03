@@ -1,4 +1,3 @@
-import math
-r,c=map(int,input().split())
-print(math.ceil(min(r,c)/2))
-# print(min(r,c))
+b=[1,2,3,4]
+for i in range(len(b)-1,-1,-1):
+    print(i)

@@ -1,3 +1,5 @@
-b=[1,2,3,4]
-for i in range(len(b)-1,-1,-1):
-    print(i)
+n=100
+i=int(input())
+is_prime=[False]*(n+1)
+if is_prime[i]:
+    print("输出")

@@ -1,4 +1,5 @@
 # 2030汉字统计
+# 汉字机内码（汉字ascii码）
 n = int(input())
 for i in range(n):
     s = str(input())

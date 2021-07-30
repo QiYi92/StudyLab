@@ -11,8 +11,17 @@ public class Hero
         m.die();
     }
 
+    //类方法，静态方法
+    //通过类就可以直接调用
+    public static void battleWin()
+    {
+        System.out.println("hero battle win");
+    }
+
     public static void main(String[] args)
     {
+
+
         Hero h = new Hero();
         h.name = "盖伦";
 
@@ -24,6 +33,8 @@ public class Hero
 
         ADAPHero adap = new ADAPHero();
         adap.name = "库奇";
+
+
 
         h.kill(ad);
         h.kill(ap);

@@ -2,7 +2,7 @@
 title: 【入门】斐波那契数列
 date: 
 author: galileocat
-img: 
+img: https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108051426453.png
 top: true
 cover: true
 coverImg: 

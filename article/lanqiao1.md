@@ -9,9 +9,9 @@ coverImg:
 password: 
 toc: false
 mathjax: false
-summary: 【入门】斐波那契数列
-categories: hexo
+summary: [蓝桥杯][入门训练]Fibonacci数列
+categories: 蓝桥杯
 tags:
-  - hexo
-  - LO
+  - 蓝桥杯
+  - Python
 ---

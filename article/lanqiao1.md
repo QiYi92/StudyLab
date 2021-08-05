@@ -31,7 +31,7 @@ Fibonacci数列的递推公式为：Fn=Fn-1+Fn-2，其中F1=F2=1。
 55
 源码
 
-```
+```pyth
 while True:
     try: #try except异常处理机制
         n=int(input()) #输入

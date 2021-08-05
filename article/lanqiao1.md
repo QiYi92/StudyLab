@@ -3,8 +3,8 @@ title: 【入门】斐波那契数列
 date: 
 author: galileocat
 img: https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108051426453.png
-top: true
-cover: true
+top: false
+cover: false
 coverImg: 
 password: 
 toc: false
@@ -30,6 +30,7 @@ Fibonacci数列的递推公式为：Fn=Fn-1+Fn-2，其中F1=F2=1。
 样例输出
 55
 源码
+
 ```
 while True:
     try: #try except异常处理机制

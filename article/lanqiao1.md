@@ -1,8 +1,7 @@
 ---
-title: ---
-title: hexo的个性化配置
+title: 【入门】斐波那契数列
 date: 
-author: wyy
+author: galileocat
 img: 
 top: true
 cover: true
@@ -10,22 +9,7 @@ coverImg:
 password: 
 toc: false
 mathjax: false
-summary: hexo的matery主题的个性化配置
-categories: hexo
-tags:
-  - hexo
-  - LO
----
-date: 
-author: wyy
-img: 
-top: true
-cover: true
-coverImg: 
-password: 
-toc: false
-mathjax: false
-summary: hexo的matery主题的个性化配置
+summary: 【入门】斐波那契数列
 categories: hexo
 tags:
   - hexo

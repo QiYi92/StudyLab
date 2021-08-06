@@ -46,7 +46,7 @@ S3=((A1+3)A2+2)A3+1
 S4=(((A1+4)A2+3)A3+2)A4+1**
 
 **利用递归求解**
-```pyhon
+```python
 def An(n,i=1):
 #A1=sin1
 #A2=sin(1-sin2)

@@ -31,6 +31,8 @@ FJ想让奶牛们计算Sn的值，请你帮助FJ打印出Sn的完整表达式，
 3
 样例输出
 ((sin(1)+3)sin(1-sin(2))+2)sin(1-sin(2+sin(3)))+1
+
+---
 解题思路
 找到Sn和An的规律
 **A1=sin1
@@ -44,3 +46,27 @@ S3=((A1+3)A2+2)A3+1
 S4=(((A1+4)A2+3)A3+2)A4+1**
 
 **利用递归求解**
+```pyhon
+def An(n,i=1):
+#A1=sin1
+#A2=sin(1-sin2)
+#A3=sin(1-sin(2+sin(3)))
+    if i==n:
+        return 'sin('+str(n)+')'
+    else:
+        if i%2==0: #判断i的奇偶性
+            s='+'
+        else:
+            s='-'
+        return 'sin('+str(i)+s+An(n,i+1)+')'
+def Sn(m,i=1):
+#S1=A1+1
+#S2=(A1+2)A2+1
+#S3=((A1+3)A2+2)A3+1
+    if m==1:
+        return An(m)+'+'+str(i) #S1=A1+1
+    else:
+        return '('+Sn(m-1,i+1)+')'+An(m)+'+'+str(i)
+num=int(input())
+print(Sn(num)
+```

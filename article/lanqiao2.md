@@ -45,3 +45,6 @@ if n>=1 and n<=200:
         print(sl[i],"",end='') #end=' '的作用是输出不换行
 ```
 
+语法
+sort()方法语法：
+list.sort(cmp=None, key=None, reverse=False)

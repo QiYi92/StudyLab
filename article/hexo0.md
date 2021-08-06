@@ -15,4 +15,8 @@ tags:
   - hexo
 ---
 
-* hexo d部署博客后 ERROR Deployer not found: git
+#### * hexo d向github部署博客后 ERROR Deployer not found: git
+
+```
+npm install --save hexo-deployer-git
+```

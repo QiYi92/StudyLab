@@ -39,3 +39,15 @@ Math.ceil(-10) ----------> -10
 Math.ceil(-10.1)----------> -10
 min()函数取当中最小的数,本题中r最小取r,c最小取c
 例子
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108070153592.png)
+4x4的矩阵
+min()取得4，/2，math.ceil()向上取整得2
+得出这个回形转2次
+
+5x5的矩阵
+min()取得5，/2，math.ceil()向上取整得3
+得出这个回形转2次
+
+4x3的矩阵
+min()取得3，/2，math.ceil()向上取整得2
+得出这个回形转2次

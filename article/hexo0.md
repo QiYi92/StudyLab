@@ -15,4 +15,4 @@ tags:
   - hexo
 ---
 
-* 1
+* hexo d部署博客后 ERROR Deployer not found: git

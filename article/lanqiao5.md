@@ -51,7 +51,7 @@ min()取得5，/2，math.ceil()向上取整得3
 4x3的矩阵
 min()取得3，/2，math.ceil()向上取整得2
 得出这个回形转2次
-```Python
+```python
 import math #导入math包
 r,c=map(int,input().split())#其中r,c分别代表要输入数据的行数和列数
 list1=[]#列表用来存放键盘输入的数据

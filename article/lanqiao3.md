@@ -19,7 +19,7 @@ tags:
 
 时间限制: 1Sec 内存限制: 128MB 提交: 2261 解决: 750
 题目描述
- 
+
 
 还记得中学时候学过的杨辉三角吗？具体的定义这里不再描述，你可以参考以下的图形：
 1
@@ -41,7 +41,7 @@ tags:
 1 1
 1 2 1
 
-```Python
+```python
 al=list(map(int,input().split()))
 for a in range(len(al)):
     n=al[a]

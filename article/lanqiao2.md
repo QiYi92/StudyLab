@@ -33,4 +33,15 @@ tags:
 样例输出
 3 4 6 8 9
 
+---
+
+调用sort()函数方法
+```Python
+n=int(input())
+if n>=1 and n<=200:
+    sl=list(map(int,input().split()))
+    sl.sort() #sort()排序函数，默认reverse=False从小到大输出,reverse=True则相反
+    for i in range(len(sl)):
+        print(sl[i],"",end='') #end=' '的作用是输出不换行
+```
 

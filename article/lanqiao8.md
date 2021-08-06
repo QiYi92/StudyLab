@@ -55,8 +55,9 @@ N
 
 ---
 
-基础判断方法
+**基础判断方法**
 素数的性质：只有1和它本身这两个因数
+```python
 # 基础判断方法
 def is_prime(n):
     for i in range(2,n):
@@ -65,9 +66,13 @@ def is_prime(n):
     return n != 1
 n=int(input())
 print(is_prime(n))
-优化算法
+
+```
+
+**优化算法**
 当n是偶数的时候，根本不需要循环，除了2以外的偶数一定是合数。
 由此引申出第一种优化方案
+```python
 #优化算法
 import math
 def is_prime(n):

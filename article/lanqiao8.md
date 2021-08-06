@@ -116,6 +116,7 @@ def is_prime(n):
 如果当前i是False则直接进入2循环
 2循环中依次取i的倍数（不算i），将其变成False
 这样每次1循环循环到i的倍数，将不会执行append()
+```python
 #究极！埃式筛法
 def eratosthenes(n): #埃拉托什尼
     primes=[]
@@ -129,3 +130,19 @@ def eratosthenes(n): #埃拉托什尼
     return primes
 n=int(input())
 print(eratosthenes(n))
+```
+**蓝桥杯1084题解答
+运用到埃式筛法**
+```python
+#蓝桥杯1084题
+n=int(input())
+primes=[] #素数数列
+alist=[True]*(n+1) #整体列表
+for i in range(2,n+1):
+    if alist[i]: #把i代入整体列表判断,true则继续,false则跳过
+        primes.append(i)
+        for j in range(i*2,n+1,i):
+            alist[j]=False
+for i in range(len(primes)):
+    print(primes[i])
+```

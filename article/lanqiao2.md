@@ -101,19 +101,16 @@ s -- 对象。
 返回对象长度。
 ## 实例
 以下实例展示了 len() 的使用方法：
->>>str = "runoob"
->>> len(str) # 字符串长度
-6
->>> l = [1,2,3,4,5]
->>> len(l) # 列表元素个数
-5
+```Python
+```
 Python split() 通过指定分隔符对字符串进行切片，如果参数 num 有指定值，则分隔 num+1 个子字符串
 ## split()语法
 split() 方法语法：
 ```Python
-str.split(str="", num=string.count(str)).
-参数
+str.split(str="", num=string.count(str))
+```
+## 参数
 str -- 分隔符，默认为所有的空字符，包括空格、换行(\n)、制表符(\t)等。
 num -- 分割次数。默认为 -1, 即分隔所有。
-返回值
+## 返回值
 返回分割后的字符串列表。

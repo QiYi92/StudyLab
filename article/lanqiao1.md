@@ -9,7 +9,7 @@ coverImg:
 password: 
 toc: false
 mathjax: false
-summary: [蓝桥杯][入门训练]Fibonacci数列
+summary: 蓝桥杯 入门训练 Fibonacci数列
 categories: 蓝桥杯
 tags:
   - 蓝桥杯

@@ -9,7 +9,7 @@ coverImg:
 password: 
 toc: false
 mathjax: false
-summary: 蓝桥杯 基础
+summary: 蓝桥杯 [基础练习] sine之舞
 categories: 蓝桥杯
 tags:
   - 蓝桥杯

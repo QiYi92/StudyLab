@@ -59,4 +59,92 @@ cmp -- 可选参数, 如果指定了该参数会使用该参数的方法进行�
 key -- 主要是用来进行比较的元素，只有一个参数，具体的函数的参数就是取自于可迭代对象中，指定可迭代对象中的一个元素来进行排序。
 reverse -- 排序规则，reverse = True 降序， reverse = False 升序（默认）。
 
+**冒泡排序方法**
+```Python
+def bublle_sort(l):
+    #冒泡排序
+    n=len(l)
+    #一趟只归位出一个数字，如果有n个数字，需要进行n-1趟
+    for j in range(n-1):
+        count = 0 #计数器归零
+        #归位后数字不需要比较，所以每趟只需要比较n-1-j次（j为已执行趟数）
+        for i in range(0,n-1-j):
+    if l[i] > l[i+1]:
+        l[i],l[i+1] = l[i+1],l[i]
+        count += 1 #每交换一次，计数器加一
+    if 0 == count: #如果计数器为零，也就是无需交换时，结束
+        break
+if __name__ == "__main__":
+    n=int(input())
+    alist=list(map(int,input().split()))
+    bublle_sort(alist)
+    #如果直接print(alist)
+    #会输出数组[3,4,5,6,7]
+    #题目要求输出3 4 5 6 7
+    #故只能用for循环依次输出
+    for i in range(len(alist)):
+        print(alist[i],"",end='') #" "表示空格,end=' '的作用是输出不换行
+ 
+
 冒泡排序
+第一趟
+
+由于一趟只归为一个数，则如果有n个数字，则需要进行n-1趟。
+因为归位后的数字不用再比较了，所以每趟只需要比较n-1-j次（j为已执行的趟数）
+def bublle_sort(l):
+    #冒泡排序
+    n=len(l)
+    #一趟只归位出一个数字，如果有n个数字，需要进行n-1趟
+    for j in range(n-1):
+        count = 0 #计数器归零
+        #归位后数字不需要比较，所以每趟只需要比较n-1-j次（j为已执行趟数）
+        for i in range(0,n-1-j):
+            if l[i] > l[i+1]:
+                l[i],l[i+1] = l[i+1],l[i]
+                count += 1 #每交换一次，计数器加一
+        if 0 == count: #如果计数器为零，也就是无需交换时，结束
+            break
+if __name__ == "__main__":
+    n=int(input())
+    alist=list(map(int,input().split()))
+    bublle_sort(alist)
+    print(alist)len()语法
+len()语法
+len()方法语法：
+len( s )
+参数
+s -- 对象。
+返回值
+返回对象长度。
+实例
+以下实例展示了 len() 的使用方法：
+>>>str = "runoob"
+>>> len(str) # 字符串长度
+6
+>>> l = [1,2,3,4,5]
+>>> len(l) # 列表元素个数
+5
+Python split() 通过指定分隔符对字符串进行切片，如果参数 num 有指定值，则分隔 num+1 个子字符串
+split()语法
+split() 方法语法：
+str.split(str="", num=string.count(str)).
+参数
+str -- 分隔符，默认为所有的空字符，包括空格、换行(\n)、制表符(\t)等。
+num -- 分割次数。默认为 -1, 即分隔所有。
+返回值
+返回分割后的字符串列表。
+ 
+
+本作品采用 知识共享署名-相同方式共享 4.0 国际许可协议 进行许可
+ 打赏  点赞 分享
+ Python 蓝桥杯最后编辑：2021年2月10日
+< 上一篇下一篇 >
+发表评论
+要发表评论，您必须先登录。
+
+© 2021 二进制的伽利略. ALL RIGHTS RESERVED.
+本站已萌萌哒(✪Ω✪)运行183天01小时29分23秒
+THEME KRATOS MADE BY MOEDOG MODIFIED BY XIAOYOU
+SITEMAP
+你都复制了些什么呀，转载要记得加上出处哦
+```

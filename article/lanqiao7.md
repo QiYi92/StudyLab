@@ -1,5 +1,5 @@
 ---
-title: 【提高】回形取数
+title: 【提高】芯片检测
 date: 
 author: galileocat
 img: https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108051426453.png
@@ -34,10 +34,13 @@ tags:
 1 0 1
 样例输出
 1 3
+
+---
+
 由题意可知
 ①好芯片比坏芯片多
 ②用好芯片测试其他芯片，能正确给出被测芯片是好是坏。用坏芯片测试其他芯片会随机给出好坏
-
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108070212885.png)
 解题思路为
 所有好芯片对其他好芯片的检测结果都为1，因为坏芯片检测结果不固定，所以我们的判断不能一步到位
 首先写一个判断语句，如果检测结果为1，则计数器加1

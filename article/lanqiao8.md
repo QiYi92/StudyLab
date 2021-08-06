@@ -104,4 +104,28 @@ def is_prime(n):
 **埃式筛法**
 思路就是用已经筛选出来的素数去过滤所有能够被它整除的数。这些素数就像是筛子一样去过滤自然数，最后被筛剩下的数自然就是不能被前面素数整除的数，根据素数的定义，这些剩下的数也是素数。
 如果要筛出100以内的所有素数，我们知道2是最小的素数，我们先用2可以筛掉所有的偶数。然后往后遍历到3，3是被2筛剩下的第一个数，也是素数，再用3去筛除所有能被3整除的数。筛完之后我们继续往后遍历，第一个遇到的数是7，所以7也是素数，我们再重复以上的过程，直到遍历结束为止。结束的时候，我们就获得了100以内的所有素数。
-用以下动图辅助理解
+**用以下动图辅助理解**
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108070217328.gif)
+**算法思路：**
+创建两个数组，一个数组放找到的素数(prime)，一个用来判断素数(is_prime)。
+用来判断素数的列表用is_prime=[True]*(n+1)生成
+生成后的样子[True,True,True,True,True...]
+之后从2到n+1开始1循环，将i代入is_prime列表
+如果当前i是True，该数为素数
+将其放到素数数组内，然后进入2循环
+如果当前i是False则直接进入2循环
+2循环中依次取i的倍数（不算i），将其变成False
+这样每次1循环循环到i的倍数，将不会执行append()
+#究极！埃式筛法
+def eratosthenes(n): #埃拉托什尼
+    primes=[]
+    is_prime=[True]*(n+1) #创建一个有n+1个True的列表
+    for i in range(2,n+1):
+        if is_prime[i]: #将i代入is_prime列表中,如果true则执行，如果false则不执行
+            primes.append(i)
+            #用当前素数i去筛掉所有能被它整除的数
+            for j in range(i*2,n+1,i): #依次取i的倍数; 从i*2开始循环到n+1,步长为i;
+                is_prime[j]=False
+    return primes
+n=int(input())
+print(eratosthenes(n))

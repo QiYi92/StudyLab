@@ -41,6 +41,7 @@ tags:
 1 1
 1 2 1
 
+```Python
 al=list(map(int,input().split()))
 for a in range(len(al)):
     n=al[a]
@@ -55,11 +56,11 @@ for a in range(len(al)):
                 print(nums[i][j],"",end='')
         print()
     print()
-
+```
 杨辉三角解析
 杨辉三角是一道非常经典的题目。我们先来看杨辉三角的一些概述，以下来自百度百科
 前提：每行端点与结尾的数为1.
-
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108070149816.png)
 每个数等于它上方两数之和。
 每行数字左右对称，由1开始逐渐变大。
 第n行的数字有n项。

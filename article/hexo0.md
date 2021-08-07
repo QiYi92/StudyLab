@@ -28,3 +28,5 @@ npm install --save hexo-deployer-git
 解决办法：
 找到对应页面的配置文件，例如友链就是friends.json，主副标题就是_config.yml
 重新保存为UTF-8格式
+这里以vscode为例，
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108071733248.png)

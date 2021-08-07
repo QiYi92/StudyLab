@@ -63,5 +63,5 @@ VBoxManage clonehd f:\mooc-os-2015.vdi e:\mooc-os-2015.vmdk -- foormat vmdk
 解决这个问题要启动bios，重启进入bios
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108072056914.jpeg)
 各个电脑进入bios的方法都不一样，我这边是微星主板，重启时狂按delete就行了
-
 然后依次 OC ————> 其他设置 ——> CPU特征 ——>SVM Mode ——> 允许
+

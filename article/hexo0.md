@@ -52,4 +52,6 @@ hexo g
 * #### hexo编写完文章不显示在列表中
 首先检查git bash后台是否有报错
 如果有，说明你文章中有书写不规范的地方
-
+例如
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108071750556.jpg)
+这里就是

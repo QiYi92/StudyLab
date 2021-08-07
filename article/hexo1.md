@@ -1,5 +1,5 @@
 ---
-title: 【教程】用github+hexo+matery+picgo+gitnote构筑
+title: 【教程】基于github托管服务，构筑hexo+matery+picgo+gitnote构筑
 date: 
 author: galileocat
 img: 

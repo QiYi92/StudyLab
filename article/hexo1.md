@@ -41,3 +41,4 @@ hexo配合github也能做到一键部署、发布。而且利用picgo, gitnote�
 下面记录一下我整hexo的思路和遇到的一些问题
 
 ### 安装Node.js
+

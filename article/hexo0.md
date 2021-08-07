@@ -38,4 +38,13 @@ npm install --save hexo-deployer-git
 * #### $ hexo d上传博客不刷新
 输入hexo d之前输入
 ```
-hexo clean && hexo 
+hexo clean && hexo g
+```
+亦或者分开输入
+```
+hexo clean
+hexo g
+```
+再输入hexo d上传即可
+
+---

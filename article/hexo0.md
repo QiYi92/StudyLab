@@ -13,6 +13,8 @@ summary: 解决hexo各种奇怪报错
 categories: hexo
 tags:
   - hexo
+  - 教程
+  - debug
 ---
 
 * #### hexo d向github部署博客后 ERROR Deployer not found: git

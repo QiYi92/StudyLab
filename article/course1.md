@@ -14,6 +14,7 @@ categories: 教程
 tags:
   - 教程
   - linux
+  - debug
 ---
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108072048759.jpeg)
 最近在学堂在线上学习操作系统这门课
@@ -71,3 +72,4 @@ VBoxManage clonehd f:\mooc-os-2015.vdi e:\mooc-os-2015.vmdk -- foormat vmdk
 记得保存
 完美解决！
 
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108072100059.jpeg)

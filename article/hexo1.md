@@ -1,5 +1,5 @@
 ---
-title: 【浅谈】基于github托管服务，利用hexo+picgo+gitnote构筑一套带图床的完整个人博客生态
+title: 【浅谈】基于github托管，利用hexo+picgo+gitnote构筑一套带图床的完整个人博客生态
 date: 
 author: galileocat
 img: 
@@ -23,4 +23,5 @@ tags:
 
 ---
 
-要说谁更好看
+要说谁更好看。。。见仁见智吧
+从成本上来说wordpress每年100多的

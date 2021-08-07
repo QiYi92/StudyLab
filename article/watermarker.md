@@ -7,8 +7,9 @@
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108080037002.png)
 
 # 执行
+将需要上水印的图片扔在img文件夹即可
 ```
-python marker.py -f ./img -m 二进制的伽利略
+python marker.py -f ./img -m 添加水印
 ```
 
 # marker.py

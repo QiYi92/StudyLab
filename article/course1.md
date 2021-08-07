@@ -29,3 +29,22 @@ tags:
 
 ---
 
+这门课的实验一共有几种实验方法
+一就是[实验楼](https://www.lanqiao.cn/courses/221/learning/)，好处就在方便，不用配置环境，直接用就行
+不方便的地方就在保存源码困难
+
+二是Windows环境，环境配置也是比较麻烦
+Github里面也提供了链接，需要的朋友可以自己去下载
+
+3. 是在VirtualBOX和VMWare进行实验
+问题就在Github上提供了.vdi格式的安装包，这个格式只支持VirtualBOX，如果要使用VMware进行实验还需要进行转换
+
+所以还是需要下载VirtualBOX   下载地址
+
+我使用的是VirtualBOX自带的VBoxManage进行转换
+
+安装完毕后在VirtualBOX会看到VBoxManage.exe就说明成功了
+
+把需要转换的vdi安装包放到一个知道路径的位置
+
+然后在命令行进入到VirtualBOX目录下输入指令

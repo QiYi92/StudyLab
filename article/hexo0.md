@@ -54,4 +54,4 @@ hexo g
 如果有，说明你文章中有书写不规范的地方
 例如
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108071750556.jpg)
-这里就是
+这里就是文章front-matter里的summary带了不该带的

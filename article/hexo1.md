@@ -13,6 +13,5 @@ summary: 教程随笔
 categories: 教程
 tags:
   - 教程
-  - linux
-  - debug
+  - hexo
 ---

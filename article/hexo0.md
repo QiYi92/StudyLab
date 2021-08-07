@@ -22,11 +22,16 @@ $ hexo d
 npm install --save hexo-deployer-git
 ```
 
+---
+
 * #### hexo博客页面乱码
 例如
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108071729506.png)
 解决办法：
 找到对应页面的配置文件，例如友链就是friends.json，主副标题就是_config.yml
 重新保存为UTF-8格式
-这里以vscode为例，编码是用的是GB2312，我们以UTF-8格式保存即可，注意，是通过
+这里以vscode为例，编码是用的是GB2312，我们以UTF-8格式保存即可，注意，是通过此编码保存，不是通过此编码打开
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108071733248.png)
+
+---
+

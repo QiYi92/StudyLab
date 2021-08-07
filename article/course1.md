@@ -49,11 +49,15 @@ Github里面也提供了链接，需要的朋友可以自己去下载
 VBoxManage clonehd f:\mooc-os-2015.vdi e:\mooc-os-2015.vmdk -- foormat vmdk
 ```
 这条指令的意思是把f盘根目录下的xxxx.vdi转换成vmdk存入e盘的根目录，地址根据你的目录自己调整
-
 之后就得到了vmdk格式的安装包了
-
 最后导入VMware就行了
 
 。。。
 
 最后在启动虚拟机时候发生了一个问题
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108072052264.png)
+啊。。这
+
+也不难解决
+
+解决这个问题要启动bios，重启进入bios

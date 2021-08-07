@@ -39,10 +39,21 @@ Github里面也提供了链接，需要的朋友可以自己去下载
 三是在VirtualBOX和VMWare进行实验
 问题就在Github上提供了.vdi格式的安装包，这个格式只支持VirtualBOX，如果要使用VMware进行实验还需要进行转换
 
-所以还是需要下载VirtualBOX   [[下载地址]](下载地址)
+所以还是需要下载VirtualBOX   [[下载地址]](https://www.virtualbox.org/)
 我使用的是VirtualBOX自带的VBoxManage进行转换
-安装完毕后在VirtualBOX会看到VBoxManage.exe就说明成功了
+安装完毕后在VirtualBOX会看到**VBoxManage.exe**就说明成功了
 
 把需要转换的vdi安装包放到一个知道路径的位置
-
 然后在命令行进入到VirtualBOX目录下输入指令
+```
+VBoxManage clonehd f:\mooc-os-2015.vdi e:\mooc-os-2015.vmdk -- foormat vmdk
+```
+这条指令的意思是把f盘根目录下的xxxx.vdi转换成vmdk存入e盘的根目录，地址根据你的目录自己调整
+
+之后就得到了vmdk格式的安装包了
+
+最后导入VMware就行了
+
+。。。
+
+最后在启动虚拟机时候发生了一个问题

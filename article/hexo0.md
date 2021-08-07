@@ -26,4 +26,5 @@ npm install --save hexo-deployer-git
 例如
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108071729506.png)
 解决办法：
-找到对应页面的
+找到对应页面的配置文件，例如友链就是friends.json，主副标题就是_config.yml
+重新保存为

@@ -1,5 +1,5 @@
 # 前置声明
-此项目为
+此项目为[2Dou/watermarker](https://github.com/2Dou/watermarker)的项目派生
 
 # marker.py
 

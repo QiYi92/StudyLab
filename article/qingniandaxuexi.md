@@ -22,3 +22,6 @@ tags:
 2.该脚本无法对微信记录进行修改，只能生成最新期的截图
 
 3.直接下载.exe文件运行即可，脚本会在同目录下生成截图.jpg文件
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108072043652.jpeg)
+[Github项目地址](https://github.com/QiYi92/Youth_Learning_Reptile)
+[Github下载地址](https://github.com/QiYi92/Youth_Learning_Reptile/releases)

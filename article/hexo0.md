@@ -35,7 +35,7 @@ npm install --save hexo-deployer-git
 
 ---
 
-* #### $ hexo d上传博客不刷新
+* #### $ hexo d上传博客后不刷新
 输入hexo d之前输入
 ```
 hexo clean && hexo g
@@ -49,4 +49,5 @@ hexo g
 
 ---
 
-* #### 编写完文章不显示
+* #### hexo编写完文章不显示在列表中
+首先检

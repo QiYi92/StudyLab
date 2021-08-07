@@ -1,8 +1,8 @@
 # 前置声明
 此项目为[2Dou/watermarker](https://github.com/2Dou/watermarker)大佬的项目派生
 本项目主要用于hexo+github图床批量添加水印
-经过本人测试发现原项目
-顺便修复原项目几个bug，添加了注释
+经过本人测试发现原项目在对gif图片添加水印时会导致gif动图无法使用，特做此派生解决此问题
+顺便修复原项目几个bug，添加了几个关键参数的注释
 
 # marker.py
 

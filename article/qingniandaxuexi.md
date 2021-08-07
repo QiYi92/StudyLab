@@ -25,3 +25,16 @@ tags:
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108072043652.jpeg)
 [Github项目地址](https://github.com/QiYi92/Youth_Learning_Reptile)
 [Github下载地址](https://github.com/QiYi92/Youth_Learning_Reptile/releases)
+
+### 核心源码
+```python
+#中青报主页
+    url = 'http://news.cyol.com/node_67071.htm'
+    #发送get请求,获取网页
+    response = requests.get(url, verify=False)
+    print("响应状态%d"%response.status_code)
+    #解析网页
+    html = etree.HTML(response.text)
+    newest = html.xpath('/html/body/div[@class="mianbody"]/dl[@class="listMM"]/dd[@class="picB"]/ul[@class="movie-list"]/li[1]/a/@href')[0]
+    img_path = newest.replace('m.html', 'images/end.jpg').replace('index.html', 'images/end.jpg')
+```

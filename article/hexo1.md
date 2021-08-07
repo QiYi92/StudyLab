@@ -1,5 +1,5 @@
 ---
-title: 【教程】基于github托管服务，利用hexo+picgo+gitnote构筑一套完整的博客生态
+title: 【教程】基于github托管服务，利用hexo+picgo+gitnote构筑一套带图床的完整的博客生态
 date: 
 author: galileocat
 img: 

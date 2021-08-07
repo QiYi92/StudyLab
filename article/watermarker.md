@@ -1,7 +1,8 @@
 # 前置声明
 此项目为[2Dou/watermarker](https://github.com/2Dou/watermarker)大佬的项目派生
 本项目主要用于hexo+github图床批量添加水印
-原项目
+经过本人测试发现原项目
+顺便修复原项目几个bug，添加了注释
 
 # marker.py
 

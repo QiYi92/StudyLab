@@ -35,3 +35,4 @@ npm install --save hexo-deployer-git
 
 ---
 
+* #### $ hexo d

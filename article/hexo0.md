@@ -1,5 +1,5 @@
 ---
-title: hexo奇怪BUG报错总结
+title: hexo matery奇怪BUG报错排雷总结
 date: 
 author: galileocat
 img: 

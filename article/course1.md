@@ -9,9 +9,9 @@ coverImg:
 password: 
 toc: false
 mathjax: false
-summary: 青年大学习完成截图爬虫
-categories: Python
+summary: 教程随笔
+categories: 教程
 tags:
-  - Python
-  - 爬虫
+  - 教程
+  - linux
 ---

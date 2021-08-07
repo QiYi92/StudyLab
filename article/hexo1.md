@@ -30,3 +30,4 @@ tags:
 而hexo利用Github pages服务搭建hexo博客是免费的。
 
 ### 维护性
+wordpress可以

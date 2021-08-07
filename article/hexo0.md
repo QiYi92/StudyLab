@@ -35,4 +35,7 @@ npm install --save hexo-deployer-git
 
 ---
 
-* #### $ hexo d
+* #### $ hexo d上传博客不刷新
+输入hexo d之前输入
+```
+hexo clean && hexo 

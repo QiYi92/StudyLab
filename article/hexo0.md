@@ -23,3 +23,7 @@ npm install --save hexo-deployer-git
 ```
 
 * #### hexo博客页面乱码
+例如
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108071729506.png)
+解决办法：
+找到对应页面的

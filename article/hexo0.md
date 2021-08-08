@@ -67,7 +67,9 @@ hexo g
 ```bash
 npm remove hexo-toc --save
 ```
-之后刷新一遍就好了
+之后输入`hexo clean`刷新一遍就好了
+最后把文章属性栏添加一行toc: true
+
 
 ### 个人技术博客——二进制的伽利略's Blog
 [http://galileocat.cn/](http://galileocat.cn/)

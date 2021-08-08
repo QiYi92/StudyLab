@@ -48,5 +48,10 @@ hexo配合github也能做到一键部署、发布。而且利用picgo, gitnote�
 ## 安装Node.js
 ## 安装git
 ## 安装hexo
+## 连接github和域名解析
+
+# matery主题安装
+
+
 
 

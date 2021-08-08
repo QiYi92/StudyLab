@@ -70,7 +70,9 @@ https://link.zhihu.com/?target=https%3A//git-scm.com/download/win
 
 ## 安装hexo
 
-在你希望存放自己博客文件的地方新建一个文件夹，我自己直接
+在你希望存放自己博客文件的地方新建一个文件夹，我自己直接存放在E盘的**blog**文件夹内
+！！！注意储存路径不能有中文！！！
+
 ## 连接github和域名解析
 
 # matery主题安装

@@ -82,7 +82,7 @@ https://link.zhihu.com/?target=https%3A//git-scm.com/download/win
 `hexo g`生成静态网页
 `hexo s`打开本地服务器
 之后在浏览器输入**localhost:4000**查看，可以发现博客已经部署在我们本地服务器上了
-
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081715997.png)
 这算是一个预览状态，以后做的所有操作例如更新文章，修改主题，都要在本地预览，无误后再上传github服务器
 确认无误后`ctrl+c`关闭本地服务器
 

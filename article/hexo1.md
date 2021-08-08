@@ -46,7 +46,11 @@ hexo配合github也能做到一键部署、发布。而且利用picgo, gitnote�
 
 # hexo安装
 ## 安装Node.js
+首先下载稳定版
 
+安装选项全部默认，一路点击Next。
+
+最后安装好之后，按Win+R打开命令提示符，输入node -v和npm -v，如果出现版本号，那么就安装成功了。
 ## 安装git
 ## 安装hexo
 ## 连接github和域名解析

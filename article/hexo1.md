@@ -156,7 +156,12 @@ branch是你博客储存的主要分支，因为我们新建仓库时主要分�
 
 # Gitnote文章编写发布及储存方案
 我们写博客的时候最宝贵的是文章数据，很多博客系统在数据的保管和迁移的方面做的实在是一言难尽，这里我提供一个非常方便编写和储存的方案
+
+
+
 先在github上创建一个笔记仓库，这个仓库一定要与博客仓库**保持独立**
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081811441.png)
+
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081811357.png)
 
 

@@ -135,8 +135,8 @@ branch是你博客储存的主要分支，因为我们新建仓库时主要分�
 这里我用腾讯云的域名为例，阿里云也差不多
 解析
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081739741.jpg)
-
-
+添加@和www
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081744039.png)
 
 # matery主题安装
 

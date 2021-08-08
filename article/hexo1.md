@@ -223,3 +223,7 @@ PicGo是一款比较优秀的图床工具。它是一款用 Electron-vue 开发�
 
 这里我使用的是picgo 2.3.0的beta版
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081845263.png)
+选择github图床
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081856677.png)
+自定义域名按这个格式
+`https://cdn.jsdelivr.net/gh/你的/ImageHost`

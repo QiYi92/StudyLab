@@ -248,5 +248,5 @@ https://cdn.jsdelivr.net/gh/**你的id**/**仓库名**
 picgo插件库里是有水印插件的，但我发现picgo里的水印插件已经很久没有更新了，很多人都无法安装，无法使用，这这里我使用的是另一个方案
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081911707.png)
 这时候就要祭出万能的Python了
-我在github上发现2Dou大佬的批量添加水印项目貌似可以用来做picgo水印插件的替代品，但测试发现原项目在对gif图片添加水印时会导致gif动图无法使用，所以fork派生并修正了这个bug,顺便
+我在github上发现2Dou大佬的批量添加水印项目貌似可以用来做picgo水印插件的替代品，但测试发现原项目在对gif图片添加水印时会导致gif动图无法使用，所以fork派生并修好了这个bug，顺便修正了几个参数错误，
 

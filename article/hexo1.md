@@ -160,7 +160,7 @@ branch是你博客储存的主要分支，因为我们新建仓库时主要分�
 首先我们先下载Gitnote
 [Gitnote传送门](https://www.gitnoteapp.com/)
 
-先在github上创建一个笔记仓库，这个仓库一定要与博客仓库**保持独立**
+先在github上创建一个笔记仓库用来做笔记托管，这个仓库一定要与博客仓库**保持独立**
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081811441.png)
 
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081811357.png)

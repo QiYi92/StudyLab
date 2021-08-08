@@ -125,7 +125,7 @@ deploy:
   branch: main
 ```
 这里repo填的就是你博客仓库的地址
-branch是你博客储存的主要分支，因为我们新建仓库时主要分支是main，那这里就填main，有的教程是master
+branch是你博客储存的主要分支，因为我们新建仓库时主要分支是main，那这里就填main，如果两边分支不一样`hexo d`上传时候就会不会显示
 
 
 

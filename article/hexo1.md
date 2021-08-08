@@ -143,8 +143,8 @@ branch是你博客储存的主要分支，因为我们新建仓库时主要分�
 
 # matery主题安装
 如何配置matery主题还是matery作者自己写的官网文档靠谱，网上很多教你如何配置主题的帖子要不就是没写完全或者已经过时了。
-
-
+直接上传送门
+[matery中文说明文档](https://github.com/blinkfox/hexo-theme-matery/blob/develop/README_CN.md)
 
 # 
 

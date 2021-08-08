@@ -172,7 +172,7 @@ gitnote安装好后是这样
 在github上创建一个 **私有** 笔记仓库用来做笔记托管，这个仓库一定要与博客仓库**保持独立**
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081811441.png)
 
-接着我们把笔记仓库的
+接着我们把笔记仓库的SSH复制到gitnote上克隆仓库
 
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081811357.png)
 

@@ -94,6 +94,10 @@ git config --global user.email "xxxxxxx@qq.com"
 ```
 用户名邮箱根据自己邮箱修改
 
+生成秘钥SSH key
+```bash
+ssh-keygen -t rsa -C "xxxxxxx@qq.com"
+```
 # matery主题安装
 
 # 

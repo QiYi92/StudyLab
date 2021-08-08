@@ -93,7 +93,8 @@ github就不多说了，没注册去注册
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081724541.png)
 注意这里仓库名称一定是这个格式
 `你的github名.github,io`
-不能起其他名字，不然就不是github
+不能起其他名字，这一点很重要
+例如我id是QiYi92，那么我博客仓库起名就是QiYi92.github.io
 ## git秘钥配置
 1. 本地安装好git；
 

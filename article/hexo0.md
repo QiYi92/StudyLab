@@ -17,7 +17,7 @@ tags:
   - debug
 ---
 
-* #### hexo d向github部署博客后 ERROR Deployer not found: git
+* ## hexo d向github部署博客后 ERROR Deployer not found: git
 
 $ hexo d
 ```
@@ -26,7 +26,7 @@ npm install --save hexo-deployer-git
 
 ---
 
-* #### hexo博客页面乱码
+* ## hexo博客页面乱码
 例如
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108071729506.png)
 解决办法：
@@ -37,7 +37,7 @@ npm install --save hexo-deployer-git
 
 ---
 
-* #### $ hexo d上传博客后不刷新
+* ## $ hexo d上传博客后不刷新
 输入hexo d之前输入
 ```
 hexo clean && hexo g
@@ -51,7 +51,7 @@ hexo g
 
 ---
 
-* #### hexo编写完文章不显示在列表中
+* ## hexo编写完文章不显示在列表中
 首先检查git bash后台是否有报错
 如果有，说明你文章中有书写不规范的地方
 例如
@@ -59,6 +59,8 @@ hexo g
 这里就是文章front-matter里的summary带了不该带的东西(中括号[])，一般非法字符都可以在报错信息里看到，如果没有就控制变量法挨个筛查就好
 
 ---
+
+
 
 ### 个人技术博客——二进制的伽利略's Blog
 [http://galileocat.cn/](http://galileocat.cn/)

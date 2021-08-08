@@ -55,9 +55,16 @@ hexo配合github也能做到一键部署、发布。而且利用picgo, gitnote�
 最后安装好之后，按Win+R打开命令提示符，输入node -v和npm -v，如果出现版本号，那么就安装成功了。
 
 安装完成后添加淘宝的镜像进行加速
+```
+npm config set registry https://registry.npm.taobao.org
+```
 
 ## 安装git
+了把本地的网页文件上传到github上面去，我们需要用到分布式版本控制工具————Git
 
+安装选项还是全部默认，只不过最后一步添加路径时选择Use Git from the Windows Command Prompt，这样我们就可以直接在命令提示符里打开git了。
+
+安装完成后在命令提示符中输入git --version验证是否安装成功。
 ## 安装hexo
 ## 连接github和域名解析
 

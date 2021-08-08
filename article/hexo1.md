@@ -137,6 +137,7 @@ branch是你博客储存的主要分支，因为我们新建仓库时主要分�
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081739741.jpg)
 添加@和www两条解析记录,记录类型选CNAME，记录值是你的默认网址也就是仓库名
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081744039.png)
+然后打开你的github博客项目，点击settings，拉到下面Custom domain处，填上你自己的域名
 
 # matery主题安装
 

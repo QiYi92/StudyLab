@@ -133,7 +133,8 @@ branch是你博客储存的主要分支，因为我们新建仓库时主要分�
 
 ## 绑定域名
 这里我用腾讯云的域名为例，阿里云也差不多
-
+解析
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081739741.jpg)
 
 
 

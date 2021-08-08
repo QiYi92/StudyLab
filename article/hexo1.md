@@ -149,6 +149,10 @@ branch是你博客储存的主要分支，因为我们新建仓库时主要分�
 直接上传送门
 [matery中文说明文档](https://github.com/blinkfox/hexo-theme-matery/blob/develop/README_CN.md)
 
+**这里有个坑需要说一下**
+你的博客文件一共有两个最重要配置文件`_config,yml`
+w
+
 按着文档走完一遍的时候你的博客已经基本上成型了
 # 
 

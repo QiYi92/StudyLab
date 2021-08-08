@@ -104,6 +104,10 @@ github就不多说了，没注册去注册
 
 7. title写blog key里把秘钥粘贴上去就完事
 
+测试
+输入`ssh -T git@github.com`如果出现
+
+
 ## 绑定域名
 
 

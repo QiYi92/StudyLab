@@ -98,6 +98,10 @@ git config --global user.email "xxxxxxx@qq.com"
 ```bash
 ssh-keygen -t rsa -C "xxxxxxx@qq.com"
 ```
+打开github，在头像下面点击settings，再点击SSH and GPG keys，新建一个SSH，名字随便。
+
+git bash中输入
+`cat ~/.ssh/id_rsa.pub`
 # matery主题安装
 
 # 

@@ -63,7 +63,11 @@ hexo g
 * ## hexo toc目录不显示异常
 现在hexo主题都基本上是自带toc
 不需要安装`hexo-toc`插件了
-如果有安装`hexo-toc`可以输入
+如果有安装`hexo-toc`可以输入以下指令卸载
+```bash
+npm remove hexo-toc --save
+```
+之后刷新一遍就好了
 
 ### 个人技术博客——二进制的伽利略's Blog
 [http://galileocat.cn/](http://galileocat.cn/)

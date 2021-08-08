@@ -15,6 +15,7 @@ tags:
   - 教程
   - hexo
 ---
+@[toc](目录)
 # 前言
 先展示一下部署在github上的hexo博客界面
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108072129639.jpg)
@@ -39,12 +40,13 @@ hexo是静态站点，访问速度要优于wordpress，部署还是需要掌握�
 
 hexo配合github也能做到一键部署、发布。而且利用picgo, gitnote这些git服务管理工具用起来非常方便
 
-@[toc](目录)
 
 
 下面记录一下我整hexo的思路和遇到的一些问题
 
 # hexo安装
-### 安装Node.js
+## 安装Node.js
+## 安装git
+## 安装hexo
 
 

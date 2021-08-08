@@ -102,6 +102,7 @@ ssh-keygen -t rsa -C "xxxxxxx@qq.com"
 
 git bash中输入
 `cat ~/.ssh/id_rsa.pub`
+将输出的秘钥复制到gith
 # matery主题安装
 
 # 

@@ -99,7 +99,9 @@ github就不多说了，没注册去注册
 
 6. 复制即可，打开github   ，点自己头像 >> settings >> SSH and GPG keys >>New SSH key 
 
-7. title写blogkey里    粘贴第六步的内容；完成。
+7. title写blog key里把秘钥粘贴上去就完事
+
+
 # matery主题安装
 
 # 

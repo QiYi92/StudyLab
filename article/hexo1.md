@@ -118,6 +118,13 @@ github就不多说了，没注册去注册
 打开博客根目录下的_config.yml这是博客的配置文件，可以在这里修改各种信息
 
 修改最后一行的配置
+```
+deploy:
+  type: git
+  repo: git@github.com:QiYi92/QiYi92.github.io.git
+  branch: main
+```
+这里repo填的就是你博客仓库的
 
 
 

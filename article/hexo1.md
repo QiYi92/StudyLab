@@ -204,5 +204,8 @@ PicGo是一款比较优秀的图床工具。它是一款用 Electron-vue 开发�
 
 一般如果不使用图床，你的图片会存放在_post的文章文件夹内，这对于博客迁移来说是非常不方便的，所以依旧是借助github的托管来做一个图床
 
-## 下载Picgo
-传送门
+## Picgo下载
+
+[Picgo传送门](https://github.com/Molunerfinn/PicGo/releases)
+
+## Picgo使用

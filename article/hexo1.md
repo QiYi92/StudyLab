@@ -88,7 +88,7 @@ https://link.zhihu.com/?target=https%3A//git-scm.com/download/win
 ## 连接github和域名解析
 github就不多说了，没注册去注册
 
-## 
+## git秘钥配置
 1. 本地安装好git；
 
 2. 桌面右键 Git Bash Here 打开git命令行；
@@ -102,6 +102,8 @@ github就不多说了，没注册去注册
 6. 复制即可，打开github   ，点自己头像 >> settings >> SSH and GPG keys >>New SSH key 
 
 7. title写blog key里把秘钥粘贴上去就完事
+
+## 绑定域名
 
 
 

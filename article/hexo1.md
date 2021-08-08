@@ -94,10 +94,11 @@ git config --global user.email "xxxxxxx@qq.com"
 ```
 用户名邮箱根据自己邮箱修改
 
-生成秘钥SSH key 
+生成秘钥SSH key 填写自己的邮箱即可
 ```bash
 ssh-keygen -t rsa -C "xxxxxxx@qq.com"
 ```
+完成操作后在运行命令行的路径下会生成y.pu
 打开github，在头像下面点击settings，再点击SSH and GPG keys，新建一个SSH，名字随便。
 
 git bash中输入

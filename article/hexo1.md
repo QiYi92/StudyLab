@@ -86,6 +86,8 @@ https://link.zhihu.com/?target=https%3A//git-scm.com/download/win
 这算是一个预览状态，以后做的所有操作例如更新文章，修改主题，都要在本地预览，无误后再上传github服务器
 确认无误后`ctrl+c`关闭本地服务器
 
+## Github
+
 ## 连接github和域名解析
 github就不多说了，没注册去注册
 
@@ -105,7 +107,7 @@ github就不多说了，没注册去注册
 7. title写blog key里把秘钥粘贴上去就完事
 
 测试
-输入`ssh -T git@github.com`如果出现
+输入`ssh -T git@github.com`如果出现你的用户名就说明成功了
 
 
 ## 绑定域名

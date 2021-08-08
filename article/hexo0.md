@@ -60,7 +60,8 @@ hexo g
 
 ---
 
-
+* ## hexo toc目录不显示异常
+现在hexo
 
 ### 个人技术博客——二进制的伽利略's Blog
 [http://galileocat.cn/](http://galileocat.cn/)

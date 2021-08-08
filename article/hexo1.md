@@ -61,11 +61,16 @@ npm config set registry https://registry.npm.taobao.org
 
 ## 安装git
 了把本地的网页文件上传到github上面去，我们需要用到分布式版本控制工具————Git
-
+```
+https://link.zhihu.com/?target=https%3A//git-scm.com/download/win
+```
 安装选项还是全部默认，只不过最后一步添加路径时选择Use Git from the Windows Command Prompt，这样我们就可以直接在命令提示符里打开git了。
 
 安装完成后在命令提示符中输入git --version验证是否安装成功。
+
 ## 安装hexo
+
+
 ## 连接github和域名解析
 
 # matery主题安装

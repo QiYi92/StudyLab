@@ -236,5 +236,6 @@ https://cdn.jsdelivr.net/gh/**你的id**/**仓库名**
 
 但，如果是想上传截图怎么办？
 你需要在picgo的插件设置里下载`quick-capture`插件
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081903924.png)
 
 

@@ -266,4 +266,5 @@ picgo插件库里是有水印插件的，但我发现picgo里的水印插件已�
 python marker.py -f ./img -m 水印内容
 ```
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081928509.png)
-等待脚本运行完成打开img文件夹，你就会发现你的图片都已经全部打上水印了（）
+等待脚本运行完成打开img文件夹，你就会发现你的图片都已经全部打上水印了（gif除外）
+

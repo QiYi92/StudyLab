@@ -71,12 +71,12 @@ https://link.zhihu.com/?target=https%3A//git-scm.com/download/win
 ## 安装hexo
 
 在你希望存放自己博客文件的地方新建一个文件夹，我自己直接存放在E盘的**blog**文件夹内
-之后在此文件夹右键打开Git Bash Here
+之后在此文件夹右键打开Git Bash Here`
 ！！！注意储存路径不能有中文！！！
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081612202.png)
 以后对博客的所有操作都在这个git控制台执行
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081613162.png)
-输入npm i hexo-cli -g安装Hexo
+输入`npm i hexo-cli -g`安装Hexo
 ## 连接github和域名解析
 
 # matery主题安装

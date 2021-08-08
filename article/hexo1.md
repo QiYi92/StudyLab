@@ -81,7 +81,7 @@ https://link.zhihu.com/?target=https%3A//git-scm.com/download/win
 接着输入`hexo init`初始化文件夹
 `hexo g`生成静态网页
 `hexo s`打开本地服务器
-之后在浏览器输入localhost
+之后在浏览器输入localhost:4000查看，可以发现
 ## 连接github和域名解析
 
 # matery主题安装

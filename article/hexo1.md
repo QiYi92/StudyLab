@@ -183,7 +183,13 @@ gitnote安装好后是这样
 如果你是编写hexo文章还需要在头部添加hexo的`front-matter`
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081833053.png)
 
-都知道hexo博客储存在根目录的`\source\_posts`文件夹内，等你写完一篇文章后直接将`文章.md`从你电脑上的笔记库
+都知道hexo博客储存在根目录的`\source\_posts`文件夹内，等你写完一篇文章后直接将`文章.md`从你电脑上的笔记库粘贴到_post库里
+再在git bash
+```
+hexo clean && hexo g
+hexo d
+```
+
 
 最后，等你写完一篇文章后你会发现你的文章已经自动同步到github笔记仓库里面了
 

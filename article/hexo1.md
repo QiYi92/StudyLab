@@ -86,7 +86,12 @@ https://link.zhihu.com/?target=https%3A//git-scm.com/download/win
 确认无误后`ctrl+c`关闭本地服务器
 
 ## 连接github和域名解析
-
+github就不多说了，没注册去注册
+在git bash里面输入
+```
+git config --global user.name "xxxxxxx"
+git config --global user.email "792321264@qq.com"
+```
 
 # matery主题安装
 

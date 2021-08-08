@@ -87,23 +87,19 @@ https://link.zhihu.com/?target=https%3A//git-scm.com/download/win
 
 ## 连接github和域名解析
 github就不多说了，没注册去注册
-在git bash里面输入
-```bash
-git config --global user.name "xxxxxxx"
-git config --global user.email "xxxxxxx@qq.com"
-```
-用户名邮箱根据自己邮箱修改
+1. 本地安装好git；
 
-生成秘钥SSH key 填写自己的邮箱即可
-```bash
-ssh-keygen -t rsa -C "xxxxxxx@qq.com"
-```
-完成操作后在运行命令行的路径下会生成y.pu
-打开github，在头像下面点击settings，再点击SSH and GPG keys，新建一个SSH，名字随便。
+2. 桌面右键 Git Bash Here 打开git命令行；
 
-git bash中输入
-`cat ~/.ssh/id_rsa.pub`
-将输出的秘钥复制到gith
+3. `ssh-keygen -t rsa -C "nideyouxiang@xxx.com"`   （全部按enter）；
+
+4. cd ~/.ssh`   （如果没有执行第三步，则不会有这个文件夹）；
+
+5. cat id_rsa.pub     在命令行打开这个文件，会直接输出密钥；
+
+6. 复制，打开github   ，点自己头像 >> settings >> SSH and GPG keys >>New SSH key 
+
+7. titile  随便写。  key里    粘贴第六步的内容；完成。
 # matery主题安装
 
 # 

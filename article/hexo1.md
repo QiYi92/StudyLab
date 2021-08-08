@@ -86,10 +86,10 @@ https://link.zhihu.com/?target=https%3A//git-scm.com/download/win
 这算是一个预览状态，以后做的所有操作例如更新文章，修改主题，都要在本地预览，无误后再上传github服务器
 确认无误后`ctrl+c`关闭本地服务器
 
-## Github
 
 ## 连接github和域名解析
 github就不多说了，没注册去注册
+注册完后新建一个项目
 
 ## git秘钥配置
 1. 本地安装好git；

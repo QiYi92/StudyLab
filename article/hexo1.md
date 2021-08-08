@@ -36,10 +36,12 @@ hexo是静态站点，访问速度要优于wordpress，部署还是需要掌握�
 
 hexo配合github也能做到一键部署、发布。而且利用picgo, gitnote这些git服务管理工具用起来非常方便
 
-[TOC]
+[toc]
+# hexo安装
 
 下面记录一下我整hexo的思路和遇到的一些问题
 
+# hexo安装
 ### 安装Node.js
 
 

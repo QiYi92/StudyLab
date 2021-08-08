@@ -93,13 +93,13 @@ github就不多说了，没注册去注册
 
 3. `ssh-keygen -t rsa -C "nideyouxiang@xxx.com"`   （全部按enter）；
 
-4. cd ~/.ssh`   （如果没有执行第三步，则不会有这个文件夹）；
+4. `cd ~/.ssh`   （如果没有执行第三步，则不会有这个文件夹）；
 
-5. cat id_rsa.pub     在命令行打开这个文件，会直接输出密钥；
+5. `cat id_rsa.pub`     在命令行打开这个文件，会直接输出密钥；
 
-6. 复制，打开github   ，点自己头像 >> settings >> SSH and GPG keys >>New SSH key 
+6. 复制即可，打开github   ，点自己头像 >> settings >> SSH and GPG keys >>New SSH key 
 
-7. titile  随便写。  key里    粘贴第六步的内容；完成。
+7. title写blogkey里    粘贴第六步的内容；完成。
 # matery主题安装
 
 # 

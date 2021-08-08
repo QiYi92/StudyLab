@@ -157,10 +157,14 @@ branch是你博客储存的主要分支，因为我们新建仓库时主要分�
 # Gitnote文章编写发布及储存方案
 我们写博客的时候最宝贵的是文章数据，很多博客系统在数据的保管和迁移的方面做的实在是一言难尽，这里我提供一个非常方便编写和储存的方案
 
+## Gitnote下载
 首先我们先下载Gitnote
 [Gitnote下载传送门](https://www.gitnoteapp.com/)
 [Gitnote使用视频教程](https://player.bilibili.com/player.html?aid=43903167&cid=76908079&page=1)
+
 GitNote 是一款基于 Git 来管理内容的免费跨平台笔记软件，它支持 Windows、macOS 以及 Linux 三大平台 (未来还会支持移动端)。软件直接内置了 Git 支持，你无须在本地安装或配置 Git，你的笔记即能拥有 Git 的特性，比如可以任意的恢复笔记的版本记录等
+
+## Gitnote使用
 
 先在github上创建一个 **私有** 笔记仓库用来做笔记托管，这个仓库一定要与博客仓库**保持独立**
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081811441.png)

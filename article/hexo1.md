@@ -183,10 +183,12 @@ gitnote安装好后是这样
 如果你是编写hexo文章还需要在头部添加hexo的`front-matter`
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081833053.png)
 
+
+
 最后，等你写完一篇文章后你会发现你的文章已经自动同步到github笔记仓库里面了
 
 如果需要迁移直接整个文件打包带走~非常方便
 
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081811357.png)
 
-
+# Picgo图床

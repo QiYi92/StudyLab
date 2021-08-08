@@ -16,7 +16,7 @@ tags:
   - hexo
   - git
 ---
-@[toc](目录)
+<!--toc-->
 # 前言
 先展示一下部署在github上的hexo博客界面
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108072129639.jpg)

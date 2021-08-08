@@ -272,5 +272,5 @@ python marker.py -f ./img -m 水印内容
 除此之外，还可以打开marker.py修改参数，以此来到达你想要的水印效果
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081938776.png)
 
-### 个人技术博客——二进制的伽利略's Blog
+个人技术博客——二进制的伽利略's Blog
 [http://galileocat.cn/](http://galileocat.cn/)

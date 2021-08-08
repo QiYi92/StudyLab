@@ -124,7 +124,8 @@ deploy:
   repo: git@github.com:QiYi92/QiYi92.github.io.git
   branch: main
 ```
-这里repo填的就是你博客仓库的
+这里repo填的就是你博客仓库的地址
+branch是你博客储存的主要分支，因为我们新建仓库时主要分支是main，那这里就填main，有的教程是master
 
 
 

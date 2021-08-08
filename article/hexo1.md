@@ -148,8 +148,8 @@ branch是你博客储存的主要分支，因为我们新建仓库时主要分�
 你的基本设置是跟着前者走，而主题图片特效这些是跟着后者，看教程的时候一定要注意是在哪个`_config.yml`进行操作
 
 如何配置matery主题还是matery作者自己写的官网文档靠谱，网上很多教你如何配置主题的帖子要不就是没写完全或者已经过时了。
+## 官方文档传送门
 
-直接上传送门
 [matery中文说明文档](https://github.com/blinkfox/hexo-theme-matery/blob/develop/README_CN.md)
 
 按着文档走完一遍的时候你的博客已经基本上成型了

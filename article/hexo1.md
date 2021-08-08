@@ -244,4 +244,5 @@ https://cdn.jsdelivr.net/gh/**你的id**/**仓库名**
 之后把picgo的图片地址复制并且粘贴到你的gitnote文章里就可以正常显示了~
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081908816.png)
 ## picgo水印
-为了防范某些盗文章的公众号，水印是
+为了防范某些盗文章的公众号，水印还是必须要整
+但我发现picgo里的水印插件已经很久没有更新了，很多人都无法安装

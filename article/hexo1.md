@@ -240,4 +240,7 @@ https://cdn.jsdelivr.net/gh/**你的id**/**仓库名**
 你需要在picgo的插件设置里搜索并下载`quick-capture`插件
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081903924.png)
 修改快捷键，快速截图后picgo就直接帮你上传了，非常方便
+之后把picgo的图片
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081904746.png)
+
+## picgo水印

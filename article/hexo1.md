@@ -229,6 +229,7 @@ PicGo是一款比较优秀的图床工具。它是一款用 Electron-vue 开发�
 https://cdn.jsdelivr.net/gh/**你的id**/**仓库名**
 
 ---
+## Picgo设置
 在 picgo设置里 开启时间戳重命名，这样可以让上传的图片名规范化，方便后期查找
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081901821.png)
 
@@ -238,5 +239,5 @@ https://cdn.jsdelivr.net/gh/**你的id**/**仓库名**
 但，如果是想上传截图怎么办？
 你需要在picgo的插件设置里搜索并下载`quick-capture`插件
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081903924.png)
-修改快捷键，快速截图后picgo就直接
+修改快捷键，快速截图后picgo就直接帮你上传了，非常方便
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081904746.png)

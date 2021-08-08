@@ -179,6 +179,8 @@ gitnote安装好后是这样
 克隆完成后就可以在Gitnote里完成你自己的文章编辑
 支持markdown语法
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081829291.png)
+
+如果你是编写hexo文章还需要添加
 最后，等你写完一篇文章后你会发现你的文章已经自动同步到github笔记仓库里面了
 
 如果需要迁移直接整个文件打包带走

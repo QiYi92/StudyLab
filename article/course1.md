@@ -73,3 +73,7 @@ VBoxManage clonehd f:\mooc-os-2015.vdi e:\mooc-os-2015.vmdk -- foormat vmdk
 完美解决！
 
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108072100059.jpeg)
+
+
+### 个人技术博客——二进制的伽利略's Blog
+[http://galileocat.cn/](http://galileocat.cn/)

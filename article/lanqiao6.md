@@ -70,3 +70,7 @@ def Sn(m,i=1):
 num=int(input())
 print(Sn(num)
 ```
+
+
+### 个人技术博客——二进制的伽利略's Blog
+[http://galileocat.cn/](http://galileocat.cn/)

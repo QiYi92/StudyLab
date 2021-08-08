@@ -72,3 +72,7 @@ for j in range(0,math.ceil(min(r,c)/2)):#math.ceil（）函数是用来向上取
 for x in ans:
     print(x,'',end='')
 ```
+
+
+### 个人技术博客——二进制的伽利略's Blog
+[http://galileocat.cn/](http://galileocat.cn/)

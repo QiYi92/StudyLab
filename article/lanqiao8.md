@@ -146,3 +146,6 @@ for i in range(2,n+1):
 for i in range(len(primes)):
     print(primes[i])
 ```
+
+### 个人技术博客——二进制的伽利略's Blog
+[http://galileocat.cn/](http://galileocat.cn/)

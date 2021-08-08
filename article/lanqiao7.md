@@ -70,3 +70,6 @@ for j in range(n):
     if num>n/2: #检测计数器的值是否大于芯片总数的1/2，如果true,可知该芯片为好芯片
         print(j+1,end=' ') #输出好芯片的编号
 ```
+
+### 个人技术博客——二进制的伽利略's Blog
+[http://galileocat.cn/](http://galileocat.cn/)

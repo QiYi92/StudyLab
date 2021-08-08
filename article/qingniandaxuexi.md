@@ -38,3 +38,7 @@ tags:
     newest = html.xpath('/html/body/div[@class="mianbody"]/dl[@class="listMM"]/dd[@class="picB"]/ul[@class="movie-list"]/li[1]/a/@href')[0]
     img_path = newest.replace('m.html', 'images/end.jpg').replace('index.html', 'images/end.jpg')
 ```
+
+
+### 个人技术博客——二进制的伽利略's Blog
+[http://galileocat.cn/](http://galileocat.cn/)

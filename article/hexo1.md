@@ -209,3 +209,5 @@ PicGo是一款比较优秀的图床工具。它是一款用 Electron-vue 开发�
 [Picgo传送门](https://github.com/Molunerfinn/PicGo/releases)
 
 ## Picgo使用
+这里我使用的是picgo 2.3.0的beta版
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081845263.png)

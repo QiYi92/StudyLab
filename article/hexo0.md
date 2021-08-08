@@ -68,7 +68,12 @@ hexo g
 npm remove hexo-toc --save
 ```
 之后输入`hexo clean`刷新一遍就好了
-最后把文章属性栏添加一行toc: true
+最后把文章属性栏添加一行
+```
+toc: true
+```
+搞定
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108082359927.png)
 
 
 ### 个人技术博客——二进制的伽利略's Blog

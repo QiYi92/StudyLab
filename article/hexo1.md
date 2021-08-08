@@ -151,7 +151,7 @@ branch是你博客储存的主要分支，因为我们新建仓库时主要分�
 
 **这里有个坑需要说一下**
 你的博客文件一共有两个最重要配置文件`_config,yml`
-一个是根目录的_config，另一个是 themes\hexo-theme-matery 里面
+一个是根目录的_config，另一个是 themes\hexo-theme-matery 里面的主题`_config.yml`，你的基本设置是跟着前者走，而主题图片特效这些
 
 按着文档走完一遍的时候你的博客已经基本上成型了
 # 

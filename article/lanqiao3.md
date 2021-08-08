@@ -1,5 +1,5 @@
 ---
-title: 【基础】数列排序
+title: 【基础】杨辉三角
 date: 
 author: galileocat
 img: https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108051426453.png

@@ -232,5 +232,9 @@ https://cdn.jsdelivr.net/gh/**你的id**/**仓库名**
 在 picgo设置里 开启时间戳重命名，这样可以让上传的图片名规范化，方便后期查找
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081901821.png)
 
-好了，现在可以
+好了，现在可以随意上传图片了
+
+但，如果是想上传截图怎么办？
+你需要在picgo的插件设置里下载`quick-capture`插件
+
 

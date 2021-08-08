@@ -15,6 +15,7 @@ tags:
   - 教程
   - hexo
   - git
+class:
 ---
 <!-- toc -->
 # 前言

@@ -91,7 +91,9 @@ https://link.zhihu.com/?target=https%3A//git-scm.com/download/win
 github就不多说了，没注册去注册
 注册完后新建一个项目仓库
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081724541.png)
-注意这里仓库名称一定是这个格式`你的`
+注意这里仓库名称一定是这个格式
+`你的github名.github,io`
+不能起其他名字，不然就不是github
 ## git秘钥配置
 1. 本地安装好git；
 

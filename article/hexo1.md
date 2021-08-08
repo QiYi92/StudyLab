@@ -76,7 +76,7 @@ https://link.zhihu.com/?target=https%3A//git-scm.com/download/win
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081612202.png)
 以后对博客的所有操作都在这个git控制台执行
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081613162.png)
-
+输入npm i hexo-cli -g安装Hexo
 ## 连接github和域名解析
 
 # matery主题安装

@@ -88,10 +88,11 @@ https://link.zhihu.com/?target=https%3A//git-scm.com/download/win
 ## 连接github和域名解析
 github就不多说了，没注册去注册
 在git bash里面输入
-```
+```bash
 git config --global user.name "xxxxxxx"
-git config --global user.email "792321264@qq.com"
+git config --global user.email "xxxxxxx@qq.com"
 ```
+用户名邮箱根据自己邮箱修改
 
 # matery主题安装
 

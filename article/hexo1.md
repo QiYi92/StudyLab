@@ -229,6 +229,7 @@ PicGo是一款比较优秀的图床工具。它是一款用 Electron-vue 开发�
 https://cdn.jsdelivr.net/gh/**你的id**/**仓库名**
 
 ---
+在 picgo设置里 开启时间戳重命名，这样可以让
 
 随便上传一张图片看看
 

@@ -176,7 +176,7 @@ gitnote安装好后是这样
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081823150.png) 
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081824005.png)
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081826995.png)
-
+克隆完成后就可以在
 最后，等你写完一篇文章后你会发现你的文章已经自动同步到github笔记仓库里面了
 
 如果需要迁移直接整个文件打包带走

@@ -78,7 +78,9 @@ https://link.zhihu.com/?target=https%3A//git-scm.com/download/win
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081613162.png)
 输入`npm i hexo-cli -g`安装Hexo
 安装完成后输入`hexo -v`如果出现版本号说明安装成功
-最后输入`hexo init`
+接着输入`hexo init`初始化文件夹
+`hexo -g`生成静态网页
+``
 ## 连接github和域名解析
 
 # matery主题安装

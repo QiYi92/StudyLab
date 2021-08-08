@@ -142,19 +142,18 @@ branch是你博客储存的主要分支，因为我们新建仓库时主要分�
 然后打开你的github博客项目，点击settings，拉到下面Custom domain处，填上你自己的域名
 
 # matery主题安装
-如何配置matery主题还是matery作者自己写的官网文档靠谱，网上很多教你如何配置主题的帖子要不就是没写完全或者已经过时了。
-
-
-
-直接上传送门
-[matery中文说明文档](https://github.com/blinkfox/hexo-theme-matery/blob/develop/README_CN.md)
-
 **这里有个坑需要说一下**
 你的博客文件一共有两个最重要配置文件`_config,yml`
 一个是根目录的_config，另一个是 themes\hexo-theme-matery 里面的主题`_config.yml`
 你的基本设置是跟着前者走，而主题图片特效这些是跟着后者，看教程的时候一定要注意是在哪个`_config.yml`进行操作
 
+如何配置matery主题还是matery作者自己写的官网文档靠谱，网上很多教你如何配置主题的帖子要不就是没写完全或者已经过时了。
+
+直接上传送门
+[matery中文说明文档](https://github.com/blinkfox/hexo-theme-matery/blob/develop/README_CN.md)
+
 按着文档走完一遍的时候你的博客已经基本上成型了
+
 # 
 
 

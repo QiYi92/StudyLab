@@ -214,6 +214,7 @@ PicGo是一款比较优秀的图床工具。它是一款用 Electron-vue 开发�
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081847123.png)
 创建好后，需要在 GitHub 上生成一个 token 以便 PicGo 来操作我们的仓库，来到个人中心，选择 Developer settings 就能看到 Personal access tokens，我们在这里创建需要的 token
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081850474.webp)
+点击 Generate new token 创建一个新 token，选择 repo，同时它会把包含其中的都会勾选上，我们勾选这些就可以了。然后拉到最下方点击绿色按钮，Generate token 即可。之后就会生成一个 token ，记得复制保存到其他地方，这个 token 只显示一次！！
 
 
 这里我使用的是picgo 2.3.0的beta版

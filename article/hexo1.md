@@ -142,7 +142,7 @@ branch是你博客储存的主要分支，因为我们新建仓库时主要分�
 然后打开你的github博客项目，点击settings，拉到下面Custom domain处，填上你自己的域名
 
 # matery主题安装
-
+如何配置matery主题
 # 
 
 

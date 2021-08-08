@@ -257,3 +257,8 @@ picgo插件库里是有水印插件的，但我发现picgo里的水印插件已�
 ![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081926725.png)
 
 接着在这个文件夹运行`命令提示符`
+输入
+```
+
+```
+![](https://cdn.jsdelivr.net/gh/QiYi92/ImageHost/img/202108081928509.png)
